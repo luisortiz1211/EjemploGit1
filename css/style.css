@@ -1,8 +1,11 @@
 .container{
-  background:rgb(205, 246, 12) ;
+  background:rgb(255, 66, 191) ;
 }
 .paragraph{
   color:rgb(47, 38, 99);
   font-size: 15px;
   font-family: cursive;
+}
+h1{
+  color: rgb(15, 101, 26);
 }
